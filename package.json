@@ -1,0 +1,33 @@
+{
+  "name": "@srinidhisg88/python-stringify",
+  "version": "1.0.0",
+  "description": "A package to convert and transfer data seamlessly between JavaScript and Python using Python Shell.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinidhisg88/Python-stringify.git"
+  },
+  "keywords": [
+    "python",
+    "javascript",
+    "python-shell"
+  ],
+  "author": "Srindhi S G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinidhisg88/Python-stringify/issues"
+  },
+  "homepage": "https://github.com/srinidhisg88/Python-stringify#readme",
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "pnpm": "^9.12.3",
+    "python-shell": "^5.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
