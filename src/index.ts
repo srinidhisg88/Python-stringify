@@ -19,3 +19,5 @@ const runPythonShell=(data:Object,filename:string):Promise<any>=>{
         })
     })
 }
+
+export default runPythonShell
